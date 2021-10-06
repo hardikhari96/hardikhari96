@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola.
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Namaste.
 </h1>
 
 <p>I'm <b>Harikrushna</b>, Software developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> <b>Anand,Gujarat, India</b>. </p>
