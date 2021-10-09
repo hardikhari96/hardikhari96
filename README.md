@@ -4,7 +4,7 @@
 
 <p>I'm <b>Harikrushna</b>, Software developer from <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="13"/> <b>Anand,Gujarat, India</b>. </p>
 
-<a href="mailto:aaa.001@haripatel.co.in?subject=%5BGitHub%5D%20%F0%9F%94%A5Contact&body=Hello%20Hari%2C%0D%0A%0D%0AI've%20seen%20your%20Github%20Profile%2C%20I%20want%20to"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" /></a>
+<a href="mailto:github@haripatel.co.in?subject=%5BGitHub%5D%20%F0%9F%94%A5Contact&body=Hello%20Hari%2C%0D%0A%0D%0AI've%20seen%20your%20Github%20Profile%2C%20I%20want%20to"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/hardikhari96"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!-- Talking about you -->
