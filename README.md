@@ -22,7 +22,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firebase/firebase.png"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
 <code><a href="https://www.nginx.com/" target="_blank"><img height="25" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg"></a></code> 
-<code><a target="" href="https://en.wikipedia.org/wiki/Cloudflare"><img height="25" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Cloudflare-logo-vector.svg/330px-Cloudflare-logo-vector.svg.png"></a></code>
+<code><a target="" href="https://en.wikipedia.org/wiki/Cloudflare"><img height="25" src="https://www.pinclipart.com/picdir/middle/9-95127_the-free-version-of-cloudflare-content-delivery-network.png"></a></code>
 
 - **Systems :**
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/linux/linux.png"></code> 
