@@ -30,3 +30,5 @@
 
 - 🌱 I’m currently learning DevOps
 - 💬 Ask me about anything, I am happy to help
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hardikhari96.hardikhari96)
