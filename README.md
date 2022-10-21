@@ -6,6 +6,7 @@
 
 <a href="mailto:github@haripatel.co.in?subject=%5BGitHub%5D%20%F0%9F%94%A5Contact&body=Hello%20Hari%2C%0D%0A%0D%0AI've%20seen%20your%20Github%20Profile%2C%20I%20want%20to"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/hardikhari96"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/8823231/harikrushna-patel"><img src="https://img.shields.io/badge/stackoverflow-ffa500.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 
 ## 👨‍💻Languages and ⛏️ Tools
 
